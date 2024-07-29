@@ -1,5 +1,5 @@
 
-##Sobre mim
+## Sobre mim
 
 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 🎓 Formando em Ciencias da Computação.
