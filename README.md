@@ -1,5 +1,6 @@
 
 ##Sobre mim
+
 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 🎓 Formando em Ciencias da Computação.
 💼 Almejando me tornar Cientista de Dados
